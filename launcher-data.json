@@ -270,17 +270,17 @@
       "id": "b38c3e296dd2",
       "name": "Tgoz12",
       "note": "",
-      "salt": "e9133e0712dd8aec207957f21ddcd285",
-      "codeHash": "632ed97d6d4520cf65da14b1797eae5839941d86f3b6bea9662fce510df925a7",
+      "salt": "262cb7918426813ded40958aa32d3aea",
+      "codeHash": "9a78321cfd96333c9de2d9191fddd92a4f1f0ac6759ac244acbf8b87a0a5d2ab",
       "codeEnc": {
-        "iv": "XqQUsahNSIZPN1oS",
-        "tag": "dsBxe4N2iG6LCXcHdxSxMQ==",
-        "data": "qa4cVVp4GfBY9On5EmVA6mTnc2QVSEsqOQ=="
+        "iv": "08EJ9ELedcUVU9/a",
+        "tag": "qnTmcURmoIg6ng5RBU1hIw==",
+        "data": "+7QKxeOZSxSHHAr8M5KaU9NzFxG/KW0vag=="
       },
       "active": true,
       "createdAt": "2026-11-20T06:18:01.280Z",
-      "gen": 0,
-      "vaultSalt": "cf4101670a0faa078d971b3077e50e35"
+      "gen": 1,
+      "vaultSalt": "d169cd69f8dd42355440fdeb0dce6584"
     }
   ],
   "devs": [
@@ -371,7 +371,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-20T20:50:07.327Z",
+  "updatedAt": "2026-11-20T20:50:53.814Z",
   "updatedBy": "TH3Winter",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
