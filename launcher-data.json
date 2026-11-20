@@ -1,0 +1,557 @@
+{
+  "schema": 2,
+  "theme": {
+    "preset": "caldito",
+    "colors": {
+      "bg": "#0e0914",
+      "bg2": "#160e20",
+      "surface": "#1d1329",
+      "surface2": "#271a37",
+      "line": "#3a2850",
+      "text": "#f6e2d0",
+      "muted": "#a993b8",
+      "accent": "#c58aff",
+      "accent2": "#7b2fd0",
+      "accentText": "#fff6ec",
+      "glow": "#7a2bc0",
+      "success": "#7ee0a1",
+      "danger": "#ff5d73",
+      "logo": "#f6e2d0"
+    },
+    "fonts": {
+      "display": "Montserrat",
+      "body": "Nunito"
+    },
+    "radius": 14,
+    "fontScale": 1,
+    "logo": "",
+    "background": "",
+    "backgroundOpacity": 0.25,
+    "animations": true
+  },
+  "texts": {
+    "studioName": "CALDITO STUDIO",
+    "appTitle": "Caldito Launcher",
+    "splashText": "Calentando el caldo…",
+    "heroEyebrow": "Servidor oficial",
+    "heroTitle": "Caldito Studio",
+    "tagline": "Hecho a fuego lento, servido caliente.",
+    "play": "CALDEAR",
+    "preparing": "CALENTANDO…",
+    "playing": "EN JUEGO",
+    "readyTitle": "Listo para servir",
+    "readySubtitle": "Se conectará directo a {ip}",
+    "runningTitle": "Minecraft en marcha",
+    "runningSubtitle": "¡Buen provecho!",
+    "newsTitle": "Del fogón",
+    "newsPageTitle": "Noticias",
+    "online": "En línea",
+    "offline": "Apagado",
+    "offlineMotd": "El servidor está apagado ahora mismo. Vuelve a intentarlo en un rato.",
+    "loginTitle": "Bienvenido a la cocina",
+    "loginSubtitle": "Inicia sesión para entrar al servidor.",
+    "playerTab": "Jugador",
+    "devTab": "Desarrollador",
+    "playerHint": "Pide tu código de acceso a un desarrollador del equipo.",
+    "devHint": "Acceso para el equipo de Caldito Studio.",
+    "navHome": "Inicio",
+    "navNews": "Noticias",
+    "navSkins": "Skins",
+    "navRepair": "Reparar",
+    "instancesTitle": "Instancias",
+    "footer": "© Caldito Studio"
+  },
+  "sections": {
+    "serverStatus": true,
+    "motd": true,
+    "playerList": true,
+    "newsOnHome": true,
+    "newsOnHomeCount": 3,
+    "quickButtons": true,
+    "heroLogo": true,
+    "steam": true
+  },
+  "splash": {
+    "durationMs": 3300,
+    "showBar": true
+  },
+  "buttons": [
+    {
+      "id": "b-discord",
+      "label": "Discord",
+      "icon": "💬",
+      "type": "link",
+      "value": "https://discord.com",
+      "visible": true
+    },
+    {
+      "id": "b-folder",
+      "label": "Carpeta del juego",
+      "icon": "📁",
+      "type": "folder",
+      "value": "root",
+      "visible": true
+    },
+    {
+      "id": "b-shots",
+      "label": "Capturas",
+      "icon": "🖼️",
+      "type": "folder",
+      "value": "screenshots",
+      "visible": true
+    }
+  ],
+  "instances": [
+    {
+      "id": "principal",
+      "name": "Caldito Safio",
+      "description": "Servidor principal de Caldito Studio.",
+      "icon": "🍲",
+      "image": "",
+      "color": "",
+      "visible": true,
+      "host": "calditosafio.mcsh.gg",
+      "port": 25565,
+      "mcVersion": "auto",
+      "fallbackVersion": "1.21.1",
+      "loader": "fabric",
+      "loaderVersion": "latest",
+      "authMode": "offline",
+      "ramMB": 4096,
+      "skins": true,
+      "menu": true,
+      "mods": [
+        {
+          "id": "4ff104ef03c2",
+          "addedAt": "2026-11-20T05:11:21.280Z",
+          "name": "appleskin-fabric-mc1.21-3.0.6",
+          "file": "appleskin-fabric-mc1.21-3.0.6.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/appleskin-fabric-mc1.21-3.0.6.jar",
+          "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+          "size": 1082585,
+          "source": "upload"
+        },
+        {
+          "id": "a259606d2b68",
+          "addedAt": "2026-11-20T05:11:24.867Z",
+          "name": "custom_craft-1.0.0-forge-1.20.1",
+          "file": "custom_craft-1.0.0-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/custom_craft-1.0.0-forge-1.20.1.jar",
+          "sha1": "1f2fe3b935a698d550c60431695b156fa21ee8c5",
+          "size": 361326,
+          "source": "upload"
+        },
+        {
+          "id": "da5d83784620",
+          "addedAt": "2026-11-20T05:11:28.320Z",
+          "name": "DEDsafio4RuletaFanProjectFabric-1.2.0",
+          "file": "DEDsafio4RuletaFanProjectFabric-1.2.0.jar",
+          "url": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/DEDsafio4RuletaFanProjectFabric-1.2.0.jar",
+          "sha1": "4a7a64e398828b1c352aae952ccfe9f019b44eec",
+          "size": 47296905,
+          "source": "upload"
+        },
+        {
+          "id": "5d461bb640f8",
+          "addedAt": "2026-11-20T05:11:31.367Z",
+          "name": "fabric-api-0.116.18-1.21.1",
+          "file": "fabric-api-0.116.18-1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/fabric-api-0.116.18-1.21.1.jar",
+          "sha1": "584d303f646287ee6be059ecb2fc451255be9ee9",
+          "size": 2453884,
+          "source": "upload"
+        },
+        {
+          "id": "52a232c9ff1d",
+          "addedAt": "2026-11-20T05:11:33.982Z",
+          "name": "geckolib-fabric-1.21.1-4.9.3",
+          "file": "geckolib-fabric-1.21.1-4.9.3.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/geckolib-fabric-1.21.1-4.9.3.jar",
+          "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
+          "size": 664463,
+          "source": "upload"
+        },
+        {
+          "id": "97667bacae01",
+          "addedAt": "2026-11-20T05:11:36.278Z",
+          "name": "jei-1.21.1-fabric-19.71.0.470",
+          "file": "jei-1.21.1-fabric-19.71.0.470.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/jei-1.21.1-fabric-19.71.0.470.jar",
+          "sha1": "ca95c54ddabdff976b5db868f47585f33e1448fc",
+          "size": 7117046,
+          "source": "upload"
+        },
+        {
+          "id": "dda04880920a",
+          "addedAt": "2026-11-20T05:12:09.234Z",
+          "name": "menumobsx-1.0.0",
+          "file": "menumobsx-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/menumobsx-1.0.0.jar",
+          "sha1": "728082f0ad2272d1e4b3d40f833009e5b8852272",
+          "size": 175724,
+          "source": "upload"
+        },
+        {
+          "id": "0293a84e8df3",
+          "addedAt": "2026-11-20T05:12:11.683Z",
+          "name": "mezz_config-1.21.1-fabric-0.7.1",
+          "file": "mezz_config-1.21.1-fabric-0.7.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/mezz_config-1.21.1-fabric-0.7.1.jar",
+          "sha1": "7a3b3633f06eba82842fa0adb42c7cf5af7b3c81",
+          "size": 395153,
+          "source": "upload"
+        },
+        {
+          "id": "7602f7cc4686",
+          "addedAt": "2026-11-20T05:12:21.352Z",
+          "name": "permadeath_sin_anuncio_fix",
+          "file": "permadeath_sin_anuncio_fix.jar",
+          "url": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/permadeath_sin_anuncio_fix.jar",
+          "sha1": "cf12da0bb412a5d90eb7c7d4aa20c3e7fb59dcba",
+          "size": 35766818,
+          "source": "upload"
+        },
+        {
+          "id": "9e85562535cc",
+          "addedAt": "2026-11-20T05:12:23.784Z",
+          "name": "skinrestorer-2.11.1+1.21-fabric",
+          "file": "skinrestorer-2.11.1+1.21-fabric.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/skinrestorer-2.11.1%2B1.21-fabric.jar",
+          "sha1": "36ca853bf92b71f6ba950af1749a2944711b9e72",
+          "size": 291538,
+          "source": "upload"
+        },
+        {
+          "id": "6fbe412973ce",
+          "addedAt": "2026-11-20T05:12:27.230Z",
+          "name": "WatonStudio-1.0.2",
+          "file": "WatonStudio-1.0.2.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/WatonStudio-1.0.2.jar",
+          "sha1": "b326974d791f82b5c37c031c381a057f08f7063a",
+          "size": 10012042,
+          "source": "upload"
+        },
+        {
+          "id": "17844ed32178",
+          "addedAt": "2026-11-20T07:39:25.092Z",
+          "name": "CalditoDeath-1.0.0-fabric-1.21.1 (2)",
+          "file": "CalditoDeath-1.0.0-fabric-1.21.1 (2).jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/CalditoDeath-1.0.0-fabric-1.21.1%20(2).jar",
+          "sha1": "44c24bb73238b8b5853eb7ae9b06292f7f273f9b",
+          "size": 475727,
+          "source": "upload"
+        }
+      ],
+      "files": [
+        {
+          "path": "config/fancymenu/assets/caldito/btn_opciones.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_opciones.png",
+          "sha1": "0abb83fa026ab30d25ee1c17864f75cf353a1269",
+          "size": 26832
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_opciones_hover.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_opciones_hover.png",
+          "sha1": "31d41026a6080b80e58dd5db003a659d6569befa",
+          "size": 41258
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_salir.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_salir.png",
+          "sha1": "4668b2b71e1f2e1b50d89d96f4732bd4f1cbdc72",
+          "size": 24936
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_salir_hover.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_salir_hover.png",
+          "sha1": "87ea313c865e27350f948a49232c1c6fbd35e1e6",
+          "size": 36256
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_servidor.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_servidor.png",
+          "sha1": "b4296ea5c59289322e032e55600eb5ae83bbc2c0",
+          "size": 38140
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_servidor_hover.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_servidor_hover.png",
+          "sha1": "7e39c30fa17d55045240ddf95bb02be321fc5872",
+          "size": 65309
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_unjugador.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_unjugador.png",
+          "sha1": "3a57622fc9e657276b995136c8150a8cf92528b9",
+          "size": 27956
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/btn_unjugador_hover.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/btn_unjugador_hover.png",
+          "sha1": "eab52ba0de9d96b1747681e48a389e22a8fbe150",
+          "size": 44485
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/carga_fondo.jpg",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/carga_fondo.jpg",
+          "sha1": "1cd94fdc1cbf6e761aa45da97868d88e3e389703",
+          "size": 85076
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/lema.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/lema.png",
+          "sha1": "9dca0a1db5a5e255f57f09e4e93b203c5dbcc0b3",
+          "size": 40435
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/menu_fondo.jpg",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/menu_fondo.jpg",
+          "sha1": "52711e764f424f3908a9c8a01e61771ff56bf27f",
+          "size": 173261
+        },
+        {
+          "path": "config/fancymenu/assets/caldito/titulo.png",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/assets/caldito/titulo.png",
+          "sha1": "8044e1482403a71c1dafaf1d349127e8e46d7745",
+          "size": 317179
+        },
+        {
+          "path": "config/fancymenu/customizablemenus.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/customizablemenus.txt",
+          "sha1": "a8f0f9e2f5d8dac720fbe4c6d0146357c4e4c871",
+          "size": 128
+        },
+        {
+          "path": "config/fancymenu/customization/caldito_menu_principal.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/customization/caldito_menu_principal.txt",
+          "sha1": "69206eaeef6009596077ea061d07982105eee12f",
+          "size": 17694
+        },
+        {
+          "path": "config/fancymenu/customization/caldito_pantalla_carga.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/customization/caldito_pantalla_carga.txt",
+          "sha1": "8107b804c82249bcf1b527753e8c356d681a2fac",
+          "size": 785
+        },
+        {
+          "path": "config/fancymenu/custom_gui_screens.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/custom_gui_screens.txt",
+          "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+          "size": 51
+        },
+        {
+          "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+          "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+          "size": 197
+        },
+        {
+          "path": "config/fancymenu/legacy_checklist.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/legacy_checklist.txt",
+          "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+          "size": 42
+        },
+        {
+          "path": "config/fancymenu/options.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/options.txt",
+          "sha1": "06716338c2a70a9e0b565711a18e9cefb860f5ae",
+          "size": 4573
+        },
+        {
+          "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/cherry_blossom.json",
+          "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+          "size": 9349
+        },
+        {
+          "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/cozy_campfire.json",
+          "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+          "size": 9347
+        },
+        {
+          "path": "config/fancymenu/ui_themes/dark.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/dark.json",
+          "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+          "size": 9329
+        },
+        {
+          "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/dark_high_contrast.json",
+          "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+          "size": 9359
+        },
+        {
+          "path": "config/fancymenu/ui_themes/light.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/light.json",
+          "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+          "size": 9331
+        },
+        {
+          "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/light_high_contrast.json",
+          "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+          "size": 9361
+        },
+        {
+          "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/pumpkin_soup.json",
+          "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+          "size": 9345
+        },
+        {
+          "path": "config/fancymenu/ui_themes/purple_void.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/purple_void.json",
+          "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+          "size": 9343
+        },
+        {
+          "path": "config/fancymenu/ui_themes/spooky_season.json",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/ui_themes/spooky_season.json",
+          "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+          "size": 9347
+        },
+        {
+          "path": "config/fancymenu/user_variables.db",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/fancymenu/user_variables.db",
+          "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+          "size": 23
+        },
+        {
+          "path": "config/drippyloadingscreen/options.txt",
+          "url": "file:///C:/Users/josed/AppData/Roaming/Caldito%20Launcher/store/files/instances/principal/config/drippyloadingscreen/options.txt",
+          "sha1": "0627525d33a0cac0eca5642721b8b7f64f0ddba5",
+          "size": 2464
+        }
+      ]
+    }
+  ],
+  "capes": [],
+  "skins": {
+    "repo": "",
+    "branch": "main"
+  },
+  "skinsSecret": null,
+  "playerKeyEnc": null,
+  "playerVault": {},
+  "update": null,
+  "news": [
+    {
+      "id": "n-bienvenida",
+      "title": "¡Bienvenido al launcher de Caldito Studio!",
+      "date": "2026-11-19",
+      "tag": "Anuncio",
+      "body": "Desde aquí entras al servidor con un solo clic. El launcher descarga el juego, Java y los mods necesarios por ti.",
+      "image": "",
+      "url": ""
+    }
+  ],
+  "players": [
+    {
+      "id": "b38c3e296dd2",
+      "name": "Tgoz12",
+      "note": "",
+      "salt": "e9133e0712dd8aec207957f21ddcd285",
+      "codeHash": "632ed97d6d4520cf65da14b1797eae5839941d86f3b6bea9662fce510df925a7",
+      "codeEnc": {
+        "iv": "XqQUsahNSIZPN1oS",
+        "tag": "dsBxe4N2iG6LCXcHdxSxMQ==",
+        "data": "qa4cVVp4GfBY9On5EmVA6mTnc2QVSEsqOQ=="
+      },
+      "active": true,
+      "createdAt": "2026-11-20T06:18:01.280Z",
+      "gen": 0,
+      "vaultSalt": "cf4101670a0faa078d971b3077e50e35"
+    }
+  ],
+  "devs": [
+    {
+      "id": "founder",
+      "name": "Caldito Studio",
+      "salt": "7c6cc2fea68745db2272065fc2faa907",
+      "vaultSalt": "3e45fef278b088c0c83c3768ec58f730",
+      "codeHash": "be4bf80ccdf75ffd35b1d57e13c9358a439b1e5bebc2a6bc26601b4032a5b957",
+      "codeEnc": {
+        "iv": "8VzxPPuWxYdGel8k",
+        "tag": "DxnZVCIRb68FfErQaq0XUw==",
+        "data": "nPV0EcKxZoVJX1u4ykUH1sIzK0/9wF1OZhkZjJDqyKnrL/xZ"
+      },
+      "createdAt": "2026-11-20T03:56:00.196Z",
+      "founder": true,
+      "role": "dev"
+    },
+    {
+      "id": "d7e129d80cd9",
+      "name": "Kylvnn",
+      "role": "dev",
+      "salt": "81718bfe43b2e5370ddefb70c0eda4e4",
+      "vaultSalt": "93f16b917a5709809f238b8da9cc7dab",
+      "codeHash": "de4f321adb2aebb1a7d4933e9f2811010d690233d16b75fde466a046383ec5f1",
+      "codeEnc": {
+        "iv": "Czwk0+8TD/BPXmFX",
+        "tag": "2uVOaZVwnArSGAneWbiT3w==",
+        "data": "n3g/+83GGUm14Zf2wskEcg+ukY7ywsCyxHaKZcjJyagKeKMP"
+      },
+      "createdAt": "2026-11-20T05:19:55.941Z"
+    },
+    {
+      "id": "a002ed700f37",
+      "name": "TH3Winter",
+      "role": "dev",
+      "salt": "c1d8d164a905779152fe2eeaa2f2d240",
+      "vaultSalt": "b6d35307e7099ade5e3e1d004a801bb7",
+      "codeHash": "e95de0f58ad23593ac82d04f8dacc6a7d8cde7f78708f65658af45b8391e5f05",
+      "codeEnc": {
+        "iv": "kZTXpaQhB1Hv06hM",
+        "tag": "OQKQIL2CJ6L8DJzTVH0bBw==",
+        "data": "RvI6uvIq+rBvlmvrN5D2ZHRxgJllcg2rAwHR+cc8cokQCSqeZl9OqXO52caAQxzht5ry3yDwuJMZWRyZxAmspVMRouYdHPTAdoX6BcK5RW8ZX+ri7kQlgBl4nBd4+n3ew0JN1tWv6oIu6rgKpun5QHc7oL5Vf+shhK1fPA=="
+      },
+      "createdAt": "2026-11-20T06:31:15.645Z",
+      "gen": 0
+    },
+    {
+      "id": "e31921390e3c",
+      "name": "KoPYTaBy10",
+      "role": "dev",
+      "salt": "dbb4ea9c8b065426b7553e7a7cdc72fd",
+      "vaultSalt": "a7902a10c563bc0fb571e524daeac9d8",
+      "codeHash": "4c287e7073e03dc53718ba65977b1a6dbb9cb338d9b37cada8e4ae1ef9f54246",
+      "codeEnc": {
+        "iv": "WZ5uxhkI0YeHxwrh",
+        "tag": "nm1EUc9rDFmPyjnwfGgdlA==",
+        "data": "GrhjG8XuyZ7RI0gnHb2mPxc1LS0lCRAoLUdOP5icuq06LSp86/Xp/3yG4FQXolhqHKoa31SMA1saDUs9nfMZXSxEn6Mw4eXzw8hkfhOaLLj2A6+c0lxkwZNOQVD4J/7fjgaA5ZSDEaexl5FgStUtRe/+A30KBNrpJm0xces="
+      },
+      "createdAt": "2026-11-20T06:55:38.618Z",
+      "gen": 0
+    }
+  ],
+  "vault": {
+    "founder": {
+      "iv": "8abt7TIgcma3i6O2",
+      "tag": "XxrpASb1uG4tUO8FcM6F5Q==",
+      "data": "rkMuReI4MSrxu6fNULo1EmGsrjxE0Z21Gvd4PLYHdJC2IgZ+fqxcr1OU5GkvrCSjMJt8S4U0T054"
+    },
+    "d7e129d80cd9": {
+      "iv": "pjCHTw+qeeqhLSM8",
+      "tag": "e9Szbyv/KgO0w6sHAARULQ==",
+      "data": "Hl4h+Aux7Oj7U9yNATaxuknII4aevz+f3pyPCR6WoI/cnay3chT4x0kUs4OcLaKUONb9H7TCDSxT"
+    },
+    "a002ed700f37": {
+      "iv": "C/RWW3Ky2VyoCIq3",
+      "tag": "TxE0x/mxuhtv8m7iAy8iLQ==",
+      "data": "SHNzfd0JKytupjjTE1HEuJ9pLq0bKxzFF2U1z95YXTPK8rYpL+KKFDle9XDVg2Q9nlfLt4/9OARr"
+    },
+    "e31921390e3c": {
+      "iv": "FWOCLrWoR70k3wAl",
+      "tag": "sEcY0sc7Vb+FHO3lxezAIQ==",
+      "data": "vvrYq1Ek0ggPcHQEe1AaHanZowPuycEXZfU6lBADvK7kH/uaLRXlMSagK9iWCf/FQn7xx14ELMzl"
+    }
+  },
+  "secrets": {
+    "iv": "McKFceudCQ5g2pgj",
+    "tag": "xUPFpJZNbHOsgN8sTTbLGg==",
+    "data": "yLP+WRO9ZJgc3IobmwYIvU5KyZAZF7Bm7eHxxh+s4dGao+WNdbUQ8qkwY5ETuDbOYsM+Pzk8HWl1xy7VcfLG5+gMtZTmcli4PxJ5F27ioZ7cK79Cp4dFGZvbTGxiw7enXQYAgUJtwbczO6mAiqJA"
+  },
+  "updatedAt": "2026-11-20T08:26:51.522Z",
+  "updatedBy": "Kylvnn"
+}
