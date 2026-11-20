@@ -232,16 +232,6 @@
           "source": "upload"
         },
         {
-          "id": "17844ed32178",
-          "addedAt": "2026-11-20T07:39:25.092Z",
-          "name": "CalditoDeath-1.0.0-fabric-1.21.1 (2)",
-          "file": "CalditoDeath-1.0.0-fabric-1.21.1 (2).jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/CalditoDeath-1.0.0-fabric-1.21.1%20(2).jar",
-          "sha1": "44c24bb73238b8b5853eb7ae9b06292f7f273f9b",
-          "size": 475727,
-          "source": "upload"
-        },
-        {
           "id": "19d6f1c6dd40",
           "addedAt": "2026-11-20T21:38:48.573Z",
           "name": "caldito-estilo",
@@ -391,7 +381,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-20T21:38:48.573Z",
+  "updatedAt": "2026-11-20T21:38:58.650Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
