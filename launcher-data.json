@@ -240,6 +240,26 @@
           "sha1": "44c24bb73238b8b5853eb7ae9b06292f7f273f9b",
           "size": 475727,
           "source": "upload"
+        },
+        {
+          "id": "19d6f1c6dd40",
+          "addedAt": "2026-11-20T21:38:48.573Z",
+          "name": "caldito-estilo",
+          "file": "caldito-estilo.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/caldito-estilo.jar",
+          "sha1": "a3293398697d9d315a44b6bf14b3e44d1e3b71d4",
+          "size": 41698,
+          "source": "upload"
+        },
+        {
+          "id": "556f2c070eef",
+          "addedAt": "2026-11-20T21:38:48.573Z",
+          "name": "calditodeath-1.2.0",
+          "file": "calditodeath-1.2.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/calditodeath-1.2.0.jar",
+          "sha1": "6105f3ce82507b91d95504c3bf22834240cacd2c",
+          "size": 5717447,
+          "source": "upload"
         }
       ],
       "files": []
@@ -371,8 +391,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-20T20:50:53.814Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-20T21:38:48.573Z",
+  "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
