@@ -367,11 +367,11 @@
     }
   },
   "secrets": {
-    "iv": "ev7262Kc29AMv7BW",
-    "tag": "5y/I5xT3Vih8eE7fOzKsJg==",
-    "data": "aEA5wYjZgLtWN4Dtr8Kqh8E/53IGC+pt+Ju0ux155VYhhRY7Ms59uycrfeRiz2clCqErOdGKkcOzP+s1GHSvP7iEMiHz+KI4DTSCUdAxOAxes3XIbFxgf2V4IHX6J5K/S+K+s7s98bT1SiATQIvf"
+    "iv": "aXPNs6a92RW838iJ",
+    "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
+    "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-20T20:13:50.587Z",
+  "updatedAt": "2026-11-20T20:17:00.538Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
