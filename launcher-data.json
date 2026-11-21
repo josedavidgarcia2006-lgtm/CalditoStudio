@@ -250,6 +250,46 @@
           "sha1": "6105f3ce82507b91d95504c3bf22834240cacd2c",
           "size": 5717447,
           "source": "upload"
+        },
+        {
+          "id": "cd7a424d5aef",
+          "addedAt": "2026-11-21T03:22:56.001Z",
+          "name": "Foxrise Studio 3",
+          "file": "Foxrise Studio 3.jar",
+          "url": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/Foxrise_Studio_3.jar",
+          "sha1": "a5b571110da27559f5138d08a8549778adb4fac8",
+          "size": 146060748,
+          "source": "upload"
+        },
+        {
+          "id": "d9d98ccd2d17",
+          "addedAt": "2026-11-21T03:22:56.001Z",
+          "name": "hotwire-0.9.5.1-beta+mc1.21.1-1.21.11",
+          "file": "hotwire-0.9.5.1-beta+mc1.21.1-1.21.11.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/hotwire-0.9.5.1-beta%2Bmc1.21.1-1.21.11.jar",
+          "sha1": "218ccfc68643ad1351fd514850eb1afc5dc78cfb",
+          "size": 3886685,
+          "source": "upload"
+        },
+        {
+          "id": "d99210db60fb",
+          "addedAt": "2026-11-21T03:22:56.001Z",
+          "name": "sodium-extra-fabric-0.9.5+mc1.21.1",
+          "file": "sodium-extra-fabric-0.9.5+mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/sodium-extra-fabric-0.9.5%2Bmc1.21.1.jar",
+          "sha1": "39df00f8a5baeeeff4bf0226997e958d89fe0c93",
+          "size": 492939,
+          "source": "upload"
+        },
+        {
+          "id": "c2f3e9051bae",
+          "addedAt": "2026-11-21T03:22:56.001Z",
+          "name": "sodium-fabric-0.8.13+mc1.21.1",
+          "file": "sodium-fabric-0.8.13+mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+          "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
+          "size": 1574609,
+          "source": "upload"
         }
       ],
       "files": []
@@ -381,7 +421,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-21T03:05:54.312Z",
+  "updatedAt": "2026-11-21T03:22:56.001Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
