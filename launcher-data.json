@@ -321,6 +321,21 @@
       "createdAt": "2026-11-20T06:18:01.280Z",
       "gen": 1,
       "vaultSalt": "d169cd69f8dd42355440fdeb0dce6584"
+    },
+    {
+      "id": "9c620f0e66c1",
+      "name": "xMaxtergamer2223",
+      "note": "",
+      "salt": "34f4862d1d9e27e22c5fad74aa086dc7",
+      "gen": 0,
+      "codeHash": "df4fd7e81a7b67ca20ddd2ea8e006c55bbdf39cac89c34ec174a15d732027009",
+      "codeEnc": {
+        "iv": "AsjjPYGbKVyQBYY3",
+        "tag": "wu8QQpacjuHIyfsI/p9Zbw==",
+        "data": "d+K2GcBnjpcxRwWcQczF0fSfuy7WhJ/sNw=="
+      },
+      "active": true,
+      "createdAt": "2026-11-21T04:57:57.367Z"
     }
   ],
   "devs": [
@@ -411,8 +426,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-21T04:46:00.900Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-21T04:57:57.368Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
