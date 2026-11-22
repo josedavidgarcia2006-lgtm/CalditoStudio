@@ -361,6 +361,21 @@
       },
       "active": true,
       "createdAt": "2026-11-22T05:46:42.075Z"
+    },
+    {
+      "id": "b7b29eb03954",
+      "name": "Unirak",
+      "note": "",
+      "salt": "a8e6b1e4278911324043b2d74ce61d1c",
+      "gen": 0,
+      "codeHash": "ed171a8076cc3401d299a42e6e1febcc4b61f417aaadfd57e8c9b6cbfb0b0ec6",
+      "codeEnc": {
+        "iv": "kuM4mo9frc9fomjH",
+        "tag": "4yOCMbOCP8HguynGYc8nFg==",
+        "data": "LWqutiL8k8kwJagY96m0OXaFrEktWkURZg=="
+      },
+      "active": true,
+      "createdAt": "2026-11-22T05:46:57.435Z"
     }
   ],
   "devs": [
@@ -451,7 +466,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-22T05:46:42.076Z",
+  "updatedAt": "2026-11-22T05:46:57.435Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
