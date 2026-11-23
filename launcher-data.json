@@ -16,7 +16,7 @@
       "glow": "#7a2bc0",
       "success": "#7ee0a1",
       "danger": "#ff5d73",
-      "logo": "#660ebe"
+      "logo": "#ffffff"
     },
     "fonts": {
       "display": "Montserrat",
@@ -466,8 +466,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-22T07:56:13.350Z",
-  "updatedBy": "KoPYTaBy10",
+  "updatedAt": "2026-11-23T00:45:21.834Z",
+  "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
