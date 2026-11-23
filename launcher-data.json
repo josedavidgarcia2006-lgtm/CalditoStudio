@@ -376,6 +376,21 @@
       },
       "active": true,
       "createdAt": "2026-11-22T05:46:57.435Z"
+    },
+    {
+      "id": "21b2ba72d263",
+      "name": "hxwa",
+      "note": "",
+      "salt": "8035ab002281a1c96a3408a9a4f79e70",
+      "gen": 0,
+      "codeHash": "69b947399e853f05ea303d5dfa20315d511cf7986a6fed669f547706f74eb166",
+      "codeEnc": {
+        "iv": "CVPv5a3L0x6Rs4EB",
+        "tag": "B3aVNXC5H1cC+pe6tHNcSw==",
+        "data": "Q/3ywteBBOTqgaosbSsew0ltPzMq3iKJkg=="
+      },
+      "active": true,
+      "createdAt": "2026-11-23T23:42:11.179Z"
     }
   ],
   "devs": [
@@ -466,8 +481,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-23T00:47:09.372Z",
-  "updatedBy": "Kylvnn",
+  "updatedAt": "2026-11-23T23:42:11.186Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
