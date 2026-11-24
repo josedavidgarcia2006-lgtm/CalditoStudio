@@ -314,13 +314,13 @@
   "playerKeyEnc": null,
   "playerVault": {},
   "update": {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "minShell": null,
-    "notes": "Menú de FancyMenu solo con Ctrl+Alt+C (staff); botones del menú sin recuadro; ajustes alineados con el grimorio",
-    "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/updates/caldito-update-3.2.1.zip",
-    "size": 9729025,
-    "sha256": "c6b95463dd84965cfd7d5602745a6eb2f2a48e488217cc3e23c2ffb61e4dae15",
-    "publishedAt": "2026-11-24T06:04:11.395Z",
+    "notes": "Transición al abrir el launcher; botones de ajustes más grandes y nuevo FOV; FancyMenu solo con Ctrl+Alt+C (staff); botones del menú sin recuadro",
+    "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/updates/caldito-update-3.2.2.zip",
+    "size": 12293577,
+    "sha256": "4772d69767b0996f53f6e3c656ac2d383993c15c720ca56e341d32d29af1989d",
+    "publishedAt": "2026-11-24T06:31:46.992Z",
     "publishedBy": "Kylvnn"
   },
   "news": [
@@ -500,7 +500,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-24T06:05:20.870Z",
+  "updatedAt": "2026-11-24T06:31:47.484Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
