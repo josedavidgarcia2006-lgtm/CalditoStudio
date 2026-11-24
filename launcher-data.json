@@ -314,13 +314,13 @@
   "playerKeyEnc": null,
   "playerVault": {},
   "update": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "minShell": null,
-    "notes": "Arreglado el error 'Object has been destroyed' al abrir el launcher con el juego abierto",
-    "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/updates/caldito-update-3.2.0.zip",
-    "size": 8209019,
-    "sha256": "8ee648ebfbb1043238716babf9a2e06b365d1c48f8d4bb9fc66c626c3511ee3c",
-    "publishedAt": "2026-11-24T05:20:00.714Z",
+    "notes": "Menú de FancyMenu solo con Ctrl+Alt+C (staff); botones del menú sin recuadro; ajustes alineados con el grimorio",
+    "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/updates/caldito-update-3.2.1.zip",
+    "size": 9729025,
+    "sha256": "c6b95463dd84965cfd7d5602745a6eb2f2a48e488217cc3e23c2ffb61e4dae15",
+    "publishedAt": "2026-11-24T06:04:11.395Z",
     "publishedBy": "Kylvnn"
   },
   "news": [
@@ -500,7 +500,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-24T05:20:31.986Z",
+  "updatedAt": "2026-11-24T06:04:11.929Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
