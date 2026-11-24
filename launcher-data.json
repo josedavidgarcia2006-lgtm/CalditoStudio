@@ -329,7 +329,7 @@
       "title": "¡Ya esta dispomible la nueva version de launcher!",
       "tag": "Anuncio",
       "date": "2026-11-24",
-      "body": "Caldito Launcher 3.2.4\n\n- Nueva transición al abrir el launcher: la pantalla de carga se abre como dos puertas y el launcher entra en escena.\n- Menú de Ajustes renovado\n- Los botones del menú principal se iluminan al pasar el ratón, sin recuadro alrededor.\n- Corregido el error \"Object has been destroyed\" al abrir el launcher con el juego abierto.",
+      "body": "Caldito Launcher 3.2.4\n\n- Nueva transición al abrir el launcher: la pantalla de carga se abre como dos puertas y el launcher entra en escena.\n- Menú de Ajustes renovado.\n- Los botones del menú principal se iluminan al pasar el ratón, sin recuadro alrededor.\n- Corregido el error \"Object has been destroyed\" al abrir el launcher con el juego abierto.",
       "image": "",
       "url": ""
     },
@@ -509,7 +509,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-24T07:29:46.757Z",
+  "updatedAt": "2026-11-24T07:30:10.543Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
