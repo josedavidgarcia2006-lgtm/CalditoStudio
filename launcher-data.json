@@ -313,7 +313,16 @@
   "skinsSecret": null,
   "playerKeyEnc": null,
   "playerVault": {},
-  "update": null,
+  "update": {
+    "version": "3.2.0",
+    "minShell": null,
+    "notes": "Arreglado el error 'Object has been destroyed' al abrir el launcher con el juego abierto",
+    "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/updates/caldito-update-3.2.0.zip",
+    "size": 8209019,
+    "sha256": "8ee648ebfbb1043238716babf9a2e06b365d1c48f8d4bb9fc66c626c3511ee3c",
+    "publishedAt": "2026-11-24T05:20:00.714Z",
+    "publishedBy": "Kylvnn"
+  },
   "news": [
     {
       "id": "n-bienvenida",
@@ -491,7 +500,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-24T05:18:38.024Z",
+  "updatedAt": "2026-11-24T05:20:01.225Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
