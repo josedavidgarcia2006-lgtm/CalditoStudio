@@ -290,16 +290,6 @@
           "sha1": "57bc24b570aab7d6ad83ad1d69f1ef7f3bd8f18e",
           "size": 487524,
           "source": "upload"
-        },
-        {
-          "id": "7f11c5f3609e",
-          "addedAt": "2026-11-23T23:45:51.974Z",
-          "name": "phora-1.9.1",
-          "file": "phora-1.9.1.jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/phora-1.9.1.jar",
-          "sha1": "9d2781b6316d6eefe8c91f6ce8e7712cba4a614c",
-          "size": 5979171,
-          "source": "upload"
         }
       ],
       "files": []
@@ -509,8 +499,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-24T07:30:10.543Z",
-  "updatedBy": "Kylvnn",
+  "updatedAt": "2026-11-25T20:58:30.762Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
