@@ -292,16 +292,6 @@
           "source": "upload"
         },
         {
-          "id": "a84c62ee4174",
-          "addedAt": "2026-11-25T21:01:03.693Z",
-          "name": "phora-1.15.0",
-          "file": "phora-1.15.0.jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/phora-1.15.0.jar",
-          "sha1": "a2e69ea9c2e72f79990a949ca070ec80c2a89fe9",
-          "size": 6032124,
-          "source": "upload"
-        },
-        {
           "id": "50b982a5f31e",
           "addedAt": "2026-11-25T21:01:03.693Z",
           "name": "phora_armaduras-1.8.0",
@@ -539,8 +529,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T04:50:47.187Z",
-  "updatedBy": "KoPYTaBy10",
+  "updatedAt": "2026-11-26T05:03:43.029Z",
+  "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
