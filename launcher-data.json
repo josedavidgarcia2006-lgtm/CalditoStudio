@@ -202,16 +202,6 @@
           "source": "upload"
         },
         {
-          "id": "7602f7cc4686",
-          "addedAt": "2026-11-20T05:12:21.352Z",
-          "name": "permadeath_sin_anuncio_fix",
-          "file": "permadeath_sin_anuncio_fix.jar",
-          "url": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/permadeath_sin_anuncio_fix.jar",
-          "sha1": "cf12da0bb412a5d90eb7c7d4aa20c3e7fb59dcba",
-          "size": 35766818,
-          "source": "upload"
-        },
-        {
           "id": "9e85562535cc",
           "addedAt": "2026-11-20T05:12:23.784Z",
           "name": "skinrestorer-2.11.1+1.21-fabric",
@@ -654,8 +644,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T23:02:13.095Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-26T23:28:20.241Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
