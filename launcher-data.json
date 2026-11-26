@@ -330,6 +330,26 @@
           "sha1": "11decc6362461bdcc9671e4df0fa39bc9515b8fa",
           "size": 6037602,
           "source": "upload"
+        },
+        {
+          "id": "748e3e0b1c31",
+          "addedAt": "2026-11-26T20:54:32.281Z",
+          "name": "dron-mod-1.0.0",
+          "file": "dron-mod-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/dron-mod-1.0.0.jar",
+          "sha1": "344f8f45298c0f8a5ac0c0f47ea3a0ce3f77f06b",
+          "size": 95356,
+          "source": "upload"
+        },
+        {
+          "id": "ff97fe06a561",
+          "addedAt": "2026-11-26T20:54:32.281Z",
+          "name": "pickupnotifications-1.7.1+1.21",
+          "file": "pickupnotifications-1.7.1+1.21.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/pickupnotifications-1.7.1%2B1.21.jar",
+          "sha1": "7a5954788153573282e946640fcaac20db725dc8",
+          "size": 1039941,
+          "source": "upload"
         }
       ],
       "files": []
@@ -554,7 +574,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T20:50:56.091Z",
+  "updatedAt": "2026-11-26T20:54:32.281Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
