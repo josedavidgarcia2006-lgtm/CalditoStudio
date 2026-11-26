@@ -390,16 +390,6 @@
           "sha1": "ff94889d01ea60f0545f2ffca0ae9a5e88bd2471",
           "size": 283269,
           "source": "upload"
-        },
-        {
-          "id": "f2bc3fe59664",
-          "addedAt": "2026-11-26T21:52:46.578Z",
-          "name": "effortlessbuilding-4.1+1.21.1 (1)",
-          "file": "effortlessbuilding-4.1+1.21.1 (1).jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/effortlessbuilding-4.1%2B1.21.1%20(1).jar",
-          "sha1": "10188c088c3e32d21275fd02d1aa31ffb6dd9f86",
-          "size": 810119,
-          "source": "upload"
         }
       ],
       "files": []
@@ -624,7 +614,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T22:20:41.877Z",
+  "updatedAt": "2026-11-26T22:21:11.444Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
