@@ -390,6 +390,26 @@
           "sha1": "ff94889d01ea60f0545f2ffca0ae9a5e88bd2471",
           "size": 283269,
           "source": "upload"
+        },
+        {
+          "id": "762569270a51",
+          "addedAt": "2026-11-26T22:21:28.875Z",
+          "name": "effortlessbuilding-4.2+1.21.1",
+          "file": "effortlessbuilding-4.2+1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/effortlessbuilding-4.2%2B1.21.1.jar",
+          "sha1": "34af0d5e57f771fa9a37e6b1b5e59c38a03afd01",
+          "size": 958842,
+          "source": "upload"
+        },
+        {
+          "id": "5d7a84a1795d",
+          "addedAt": "2026-11-26T22:21:28.875Z",
+          "name": "plasmovoice-fabric-1.21.1-2.2.0-beta.3",
+          "file": "plasmovoice-fabric-1.21.1-2.2.0-beta.3.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/plasmovoice-fabric-1.21.1-2.2.0-beta.3.jar",
+          "sha1": "82f6d6b6f11394d3d29e4d56145867d11a3b875e",
+          "size": 14474320,
+          "source": "upload"
         }
       ],
       "files": []
@@ -614,7 +634,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T22:21:11.444Z",
+  "updatedAt": "2026-11-26T22:21:28.875Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
