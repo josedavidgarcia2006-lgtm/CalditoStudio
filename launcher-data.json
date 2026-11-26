@@ -310,6 +310,26 @@
           "sha1": "b4d2e913a6a5a2ca9ffe9864f8bb08522c8d0d65",
           "size": 121691,
           "source": "upload"
+        },
+        {
+          "id": "d54622f5de56",
+          "addedAt": "2026-11-26T05:04:19.744Z",
+          "name": "hotwire-0.9.5.5-beta+mc1.21.1-1.21.11",
+          "file": "hotwire-0.9.5.5-beta+mc1.21.1-1.21.11.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/hotwire-0.9.5.5-beta%2Bmc1.21.1-1.21.11.jar",
+          "sha1": "7794c6d5366ee67739fef11e9ae34edaa3b1f378",
+          "size": 4154538,
+          "source": "upload"
+        },
+        {
+          "id": "47beebd2d038",
+          "addedAt": "2026-11-26T05:04:19.744Z",
+          "name": "phora-1.16.0",
+          "file": "phora-1.16.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/phora-1.16.0.jar",
+          "sha1": "11decc6362461bdcc9671e4df0fa39bc9515b8fa",
+          "size": 6037602,
+          "source": "upload"
         }
       ],
       "files": []
@@ -519,7 +539,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T05:03:48.669Z",
+  "updatedAt": "2026-11-26T05:04:19.744Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
