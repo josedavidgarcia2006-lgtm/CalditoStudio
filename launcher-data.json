@@ -410,6 +410,16 @@
           "sha1": "53df91d68d966e1e3d234c244bbd8e826d5cd6a5",
           "size": 94819075,
           "source": "upload"
+        },
+        {
+          "id": "657321d53651",
+          "addedAt": "2026-11-26T23:44:34.440Z",
+          "name": "worldedit-mod-7.3.6",
+          "file": "worldedit-mod-7.3.6.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/worldedit-mod-7.3.6.jar",
+          "sha1": "89d3d1a5b6d4d400adf5fc64ccc3f10add3ed7c3",
+          "size": 6105795,
+          "source": "upload"
         }
       ],
       "files": []
@@ -634,7 +644,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T23:43:39.354Z",
+  "updatedAt": "2026-11-26T23:44:34.440Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
