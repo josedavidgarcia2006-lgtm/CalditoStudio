@@ -449,6 +449,21 @@
       },
       "active": true,
       "createdAt": "2026-11-23T23:42:11.179Z"
+    },
+    {
+      "id": "577042234f5e",
+      "name": "TwpGGx",
+      "note": "",
+      "salt": "66e6c84eb1e3208ab902767032b9df1e",
+      "gen": 0,
+      "codeHash": "973aa1ec07f555b1a4a404e3712a1645fc8c93e175376f0e74d3e8cbd627727d",
+      "codeEnc": {
+        "iv": "xIvH4RvUhUehmVJ+",
+        "tag": "r2kDrCimMZ1kOvLcQPmtqw==",
+        "data": "iUPgxqWiXdH+Nl87QzmI8qjjztMhnz/v+Q=="
+      },
+      "active": true,
+      "createdAt": "2026-11-26T18:28:11.986Z"
     }
   ],
   "devs": [
@@ -539,7 +554,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T18:20:57.207Z",
+  "updatedAt": "2026-11-26T18:28:11.986Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
