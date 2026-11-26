@@ -212,16 +212,6 @@
           "source": "upload"
         },
         {
-          "id": "6fbe412973ce",
-          "addedAt": "2026-11-20T05:12:27.230Z",
-          "name": "WatonStudio-1.0.2",
-          "file": "WatonStudio-1.0.2.jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/WatonStudio-1.0.2.jar",
-          "sha1": "b326974d791f82b5c37c031c381a057f08f7063a",
-          "size": 10012042,
-          "source": "upload"
-        },
-        {
           "id": "19d6f1c6dd40",
           "addedAt": "2026-11-20T21:38:48.573Z",
           "name": "caldito-estilo",
@@ -644,7 +634,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T23:28:20.241Z",
+  "updatedAt": "2026-11-26T23:29:32.723Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
