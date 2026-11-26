@@ -372,16 +372,6 @@
           "source": "upload"
         },
         {
-          "id": "b1c2afb3cb23",
-          "addedAt": "2026-11-26T21:32:03.169Z",
-          "name": "plasmovoice-fabric-1.21.1-2.2.0-beta.4",
-          "file": "plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
-          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
-          "sha1": "e835d36c96592803ccc42c3c7afee467c347fbca",
-          "size": 14478141,
-          "source": "upload"
-        },
-        {
           "id": "1a8ca523fe36",
           "addedAt": "2026-11-26T21:32:03.169Z",
           "name": "skinlayers3d-fabric-1.11.4-mc1.21.1",
@@ -634,8 +624,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T22:20:26.387Z",
-  "updatedBy": "Kylvnn",
+  "updatedAt": "2026-11-26T22:20:41.877Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
