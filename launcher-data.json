@@ -350,6 +350,56 @@
           "sha1": "7a5954788153573282e946640fcaac20db725dc8",
           "size": 1039941,
           "source": "upload"
+        },
+        {
+          "id": "c37e0756e402",
+          "addedAt": "2026-11-26T21:32:03.169Z",
+          "name": "CustomPlayerModels-Fabric-1.21-0.6.27a",
+          "file": "CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+          "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703",
+          "size": 2845602,
+          "source": "upload"
+        },
+        {
+          "id": "67000c315451",
+          "addedAt": "2026-11-26T21:32:03.169Z",
+          "name": "hdskins-6.15.1+1.21.1",
+          "file": "hdskins-6.15.1+1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/hdskins-6.15.1%2B1.21.1.jar",
+          "sha1": "f25c5b1e9fb62516114fd4b140c4e3c33d765fd5",
+          "size": 1500373,
+          "source": "upload"
+        },
+        {
+          "id": "b1c2afb3cb23",
+          "addedAt": "2026-11-26T21:32:03.169Z",
+          "name": "plasmovoice-fabric-1.21.1-2.2.0-beta.4",
+          "file": "plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
+          "sha1": "e835d36c96592803ccc42c3c7afee467c347fbca",
+          "size": 14478141,
+          "source": "upload"
+        },
+        {
+          "id": "1a8ca523fe36",
+          "addedAt": "2026-11-26T21:32:03.169Z",
+          "name": "skinlayers3d-fabric-1.11.4-mc1.21.1",
+          "file": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+          "sha1": "59b73891befcbd20a977a903eac8e212287a31f8",
+          "size": 1914438,
+          "source": "upload"
+        },
+        {
+          "id": "6c40d380eeb5",
+          "addedAt": "2026-11-26T21:32:03.169Z",
+          "name": "talking-heads-1.1.4+1.21.1+fabric",
+          "file": "talking-heads-1.1.4+1.21.1+fabric.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/talking-heads-1.1.4%2B1.21.1%2Bfabric.jar",
+          "sha1": "ff94889d01ea60f0545f2ffca0ae9a5e88bd2471",
+          "size": 283269,
+          "source": "upload"
         }
       ],
       "files": []
@@ -574,8 +624,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T20:56:45.346Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-26T21:32:03.169Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
