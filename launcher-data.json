@@ -554,7 +554,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T19:10:34.888Z",
+  "updatedAt": "2026-11-26T20:35:44.554Z",
   "updatedBy": "TH3Winter",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
@@ -587,19 +587,6 @@
         "mirror": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/fancymenu_fabric_3.11.0_MC_1.21.1.jar"
       },
       {
-        "name": "Melody",
-        "file": "melody_fabric_1.0.10_MC_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
-        "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
-        "size": 188035,
-        "source": "modrinth",
-        "projectId": "CVT4pFB2",
-        "versionId": "OqxSeb4n",
-        "version": "1.0.10-1.21-fabric",
-        "icon": "https://cdn.modrinth.com/data/CVT4pFB2/87ac2562f06b104c827d322b4b937bad8fac5fbc_96.webp",
-        "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/melody_fabric_1.0.10_MC_1.21.jar"
-      },
-      {
         "name": "Fabric API",
         "file": "fabric-api-0.116.18+1.21.1.jar",
         "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
@@ -623,6 +610,19 @@
         "version": "1.9.9-1.21-fabric",
         "icon": "https://cdn.modrinth.com/data/J81TRJWm/f27c753fd9ec7944b49f4fe2d7cfd32527340183_96.webp",
         "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/konkrete_fabric_1.9.9_MC_1.21.jar"
+      },
+      {
+        "name": "Melody",
+        "file": "melody_fabric_1.0.10_MC_1.21.jar",
+        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+        "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+        "size": 188035,
+        "source": "modrinth",
+        "projectId": "CVT4pFB2",
+        "versionId": "OqxSeb4n",
+        "version": "1.0.10-1.21-fabric",
+        "icon": "https://cdn.modrinth.com/data/CVT4pFB2/87ac2562f06b104c827d322b4b937bad8fac5fbc_96.webp",
+        "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/melody_fabric_1.0.10_MC_1.21.jar"
       }
     ],
     "drippy-loading-screen:1.21.1:fabric": [
@@ -665,19 +665,6 @@
         "mirror": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/fancymenu_fabric_3.11.0_MC_1.21.1.jar"
       },
       {
-        "name": "Melody",
-        "file": "melody_fabric_1.0.10_MC_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
-        "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
-        "size": 188035,
-        "source": "modrinth",
-        "projectId": "CVT4pFB2",
-        "versionId": "OqxSeb4n",
-        "version": "1.0.10-1.21-fabric",
-        "icon": "https://cdn.modrinth.com/data/CVT4pFB2/87ac2562f06b104c827d322b4b937bad8fac5fbc_96.webp",
-        "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/melody_fabric_1.0.10_MC_1.21.jar"
-      },
-      {
         "name": "Konkrete",
         "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
         "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
@@ -689,6 +676,19 @@
         "version": "1.9.9-1.21-fabric",
         "icon": "https://cdn.modrinth.com/data/J81TRJWm/f27c753fd9ec7944b49f4fe2d7cfd32527340183_96.webp",
         "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/konkrete_fabric_1.9.9_MC_1.21.jar"
+      },
+      {
+        "name": "Melody",
+        "file": "melody_fabric_1.0.10_MC_1.21.jar",
+        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+        "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+        "size": 188035,
+        "source": "modrinth",
+        "projectId": "CVT4pFB2",
+        "versionId": "OqxSeb4n",
+        "version": "1.0.10-1.21-fabric",
+        "icon": "https://cdn.modrinth.com/data/CVT4pFB2/87ac2562f06b104c827d322b4b937bad8fac5fbc_96.webp",
+        "mirror": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/auto/melody_fabric_1.0.10_MC_1.21.jar"
       }
     ]
   }
