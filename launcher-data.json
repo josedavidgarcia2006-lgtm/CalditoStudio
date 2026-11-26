@@ -320,6 +320,16 @@
           "sha1": "968b9db27adee27e8a07787d572cfb6be477b743",
           "size": 611914,
           "source": "upload"
+        },
+        {
+          "id": "590affbc2669",
+          "addedAt": "2026-11-26T04:50:47.187Z",
+          "name": "creeper-pastel-1.0.0",
+          "file": "creeper-pastel-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/creeper-pastel-1.0.0.jar",
+          "sha1": "b4d2e913a6a5a2ca9ffe9864f8bb08522c8d0d65",
+          "size": 121691,
+          "source": "upload"
         }
       ],
       "files": []
@@ -529,7 +539,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T04:42:33.366Z",
+  "updatedAt": "2026-11-26T04:50:47.187Z",
   "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
