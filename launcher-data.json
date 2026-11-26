@@ -420,6 +420,16 @@
           "sha1": "1f8c58489ed3c826491df10243fbc703566b7aa6",
           "size": 43857,
           "source": "upload"
+        },
+        {
+          "id": "57eef91842e6",
+          "addedAt": "2026-11-26T22:58:57.765Z",
+          "name": "customgear-2.0.01.21.1",
+          "file": "customgear-2.0.01.21.1.jar",
+          "url": "https://github.com/josedavidgarcia2006-lgtm/CalditoStudio/releases/download/caldito-archivos/customgear-2.0.01.21.1.jar",
+          "sha1": "53df91d68d966e1e3d234c244bbd8e826d5cd6a5",
+          "size": 94819075,
+          "source": "upload"
         }
       ],
       "files": []
@@ -644,8 +654,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-26T22:26:07.088Z",
-  "updatedBy": "Kylvnn",
+  "updatedAt": "2026-11-26T22:58:57.765Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
