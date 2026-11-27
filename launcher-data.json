@@ -440,6 +440,16 @@
           "sha1": "e2699ef71618c54fc03c6c8b28e336603596dcef",
           "size": 1411200,
           "source": "upload"
+        },
+        {
+          "id": "f6354c5bf0d5",
+          "addedAt": "2026-11-27T01:59:42.093Z",
+          "name": "admin-menu-1.0.0",
+          "file": "admin-menu-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/admin-menu-1.0.0.jar",
+          "sha1": "cf51058e2f1003b7d866637d4ae53c101c6d29dc",
+          "size": 28172,
+          "source": "upload"
         }
       ],
       "files": []
@@ -664,8 +674,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-27T01:50:21.779Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-27T01:59:42.093Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
