@@ -450,6 +450,16 @@
           "sha1": "cf51058e2f1003b7d866637d4ae53c101c6d29dc",
           "size": 28172,
           "source": "upload"
+        },
+        {
+          "id": "ec664a567061",
+          "addedAt": "2026-11-27T04:23:33.122Z",
+          "name": "caldito-proteccion-2.0.0",
+          "file": "caldito-proteccion-2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/caldito-proteccion-2.0.0.jar",
+          "sha1": "f7e167221ef8965d014810368d962da579dfb038",
+          "size": 95765,
+          "source": "upload"
         }
       ],
       "files": []
@@ -674,8 +684,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-27T02:06:37.277Z",
-  "updatedBy": "Kylvnn",
+  "updatedAt": "2026-11-27T04:23:33.122Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
