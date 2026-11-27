@@ -520,6 +520,16 @@
           "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
           "size": 6222854,
           "source": "upload"
+        },
+        {
+          "id": "3578f15c341c",
+          "addedAt": "2026-11-27T17:59:50.300Z",
+          "name": "caldito-decoraciones-1.0.0",
+          "file": "caldito-decoraciones-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/caldito-decoraciones-1.0.0.jar",
+          "sha1": "f89cffc7b0c6e5e9ac8fd12462026700e966873d",
+          "size": 59520,
+          "source": "upload"
         }
       ],
       "files": []
@@ -744,7 +754,7 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-27T07:45:42.581Z",
+  "updatedAt": "2026-11-27T17:59:50.302Z",
   "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
