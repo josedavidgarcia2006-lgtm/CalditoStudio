@@ -460,6 +460,66 @@
           "sha1": "b575e5cfc7baa704d7d971b556635d017ffb6ec8",
           "size": 205511,
           "source": "upload"
+        },
+        {
+          "id": "c85507d30706",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "geckolib-fabric-1.21.1-4.9.4",
+          "file": "geckolib-fabric-1.21.1-4.9.4.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/geckolib-fabric-1.21.1-4.9.4.jar",
+          "sha1": "271f0b43368baf7d72e720b8a553139b5293a31e",
+          "size": 669112,
+          "source": "upload"
+        },
+        {
+          "id": "289e2aa7c00a",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "jei-1.21.1-fabric-19.76.1.482",
+          "file": "jei-1.21.1-fabric-19.76.1.482.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/jei-1.21.1-fabric-19.76.1.482.jar",
+          "sha1": "04fe9996b071a0dae5c3802750ecf1164ca8950a",
+          "size": 7140905,
+          "source": "upload"
+        },
+        {
+          "id": "95ce70732cc4",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "plasmovoice-fabric-1.21.1-2.2.0-beta.4",
+          "file": "plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/plasmovoice-fabric-1.21.1-2.2.0-beta.4.jar",
+          "sha1": "e835d36c96592803ccc42c3c7afee467c347fbca",
+          "size": 14478141,
+          "source": "upload"
+        },
+        {
+          "id": "abcce149df71",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "sodium-extra-fabric-0.9.6-beta.1+mc1.21.1",
+          "file": "sodium-extra-fabric-0.9.6-beta.1+mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/sodium-extra-fabric-0.9.6-beta.1%2Bmc1.21.1.jar",
+          "sha1": "7a4eddd97807ce2f0cbd4b5b91aafc0ecb9b4ef7",
+          "size": 492947,
+          "source": "upload"
+        },
+        {
+          "id": "c789b4d3b466",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "sodium-fabric-0.8.14-beta.2+mc1.21.1",
+          "file": "sodium-fabric-0.8.14-beta.2+mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/sodium-fabric-0.8.14-beta.2%2Bmc1.21.1.jar",
+          "sha1": "a9b9ad08e370740b69f103490879dba94e70ccec",
+          "size": 1578362,
+          "source": "upload"
+        },
+        {
+          "id": "a017fb98cfb6",
+          "addedAt": "2026-11-27T07:45:42.581Z",
+          "name": "worldedit-mod-7.3.8",
+          "file": "worldedit-mod-7.3.8.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/worldedit-mod-7.3.8.jar",
+          "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+          "size": 6222854,
+          "source": "upload"
         }
       ],
       "files": []
@@ -684,8 +744,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-27T06:37:55.273Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-27T07:45:42.581Z",
+  "updatedBy": "Kylvnn",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
