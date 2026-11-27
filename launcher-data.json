@@ -450,6 +450,16 @@
           "sha1": "f7e167221ef8965d014810368d962da579dfb038",
           "size": 95765,
           "source": "upload"
+        },
+        {
+          "id": "fe2a84c93d0d",
+          "addedAt": "2026-11-27T06:27:00.063Z",
+          "name": "menumobsx-1.1.0",
+          "file": "menumobsx-1.1.0.jar",
+          "url": "https://raw.githubusercontent.com/josedavidgarcia2006-lgtm/CalditoStudio/main/files/mods/menumobsx-1.1.0.jar",
+          "sha1": "b575e5cfc7baa704d7d971b556635d017ffb6ec8",
+          "size": 205511,
+          "source": "upload"
         }
       ],
       "files": []
@@ -674,8 +684,8 @@
     "tag": "PsLJ4Tq7+1uS+1Am+aXufQ==",
     "data": "EDckwGKPVNjxQ+jcyeuO0Z2ag10egpl9wPTRwSc2kK8YZ5j5xWeYS4Eida/hwxGYf0cqiIAewLS8QzIdzc2RvgDd7XbAVzOVp0Csphodl7rNgMBJhNoI39EvpagDquTr1Ci8lvoNsTs+1N4VVeOO"
   },
-  "updatedAt": "2026-11-27T05:48:18.665Z",
-  "updatedBy": "TH3Winter",
+  "updatedAt": "2026-11-27T06:27:00.063Z",
+  "updatedBy": "KoPYTaBy10",
   "autoMods": {
     "customskinloader:1.21.1:fabric": [
       {
